@@ -1,5 +1,13 @@
 {
 	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"H0xton1337"
+		],
+		"description": "Cheaters",
+		"title": "naughtylist",
+		"update_url": "https://raw.githubusercontent.com/H0xton1337/naughtylist-/main/playerlist.naughtylist.json"
+	}
 	"players": [
 		{
 			"attributes": [
