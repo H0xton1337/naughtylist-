@@ -7,7 +7,7 @@
 		"description": "Cheaters",
 		"title": "naughtylist",
 		"update_url": "https://raw.githubusercontent.com/H0xton1337/naughtylist-/main/playerlist.naughtylist.json"
-	}
+	},
 	"players": [
 		{
 			"attributes": [
