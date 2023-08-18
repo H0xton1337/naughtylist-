@@ -8,6 +8,7 @@
 		"title": "naughtylist",
 		"update_url": "https://raw.githubusercontent.com/H0xton1337/naughtylist-/main/playerlist.naughtylist.json"
 	},
+
 	"players": [
 		{
 			"attributes": [
@@ -68,6 +69,16 @@
 				"time": 1678658757
 			},
 			"steamid": "[U:1:67573723]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter2",
+				"time": 1689400815
+			},
+			"steamid": "[U:1:73369985]"
 		},
 		{
 			"attributes": [
@@ -158,6 +169,19 @@
 				"time": 1687657318
 			},
 			"steamid": "[U:1:121805810]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "HELP",
+				"time": 1692100241
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"cancer ultra trash can and dumb and trash and low iq and trash and perma suck balls and trash and ban and nigger and trash and \""
+			],
+			"steamid": "[U:1:123567100]"
 		},
 		{
 			"attributes": [
@@ -538,6 +562,19 @@
 				"time": 1682852220
 			},
 			"steamid": "[U:1:321870371]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "JUMBOCOCAINA",
+				"time": 1692217101
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"actually i won also pyro is a class for niggers\""
+			],
+			"steamid": "[U:1:322618799]"
 		},
 		{
 			"attributes": [
@@ -955,6 +992,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Tomato",
+				"time": 1692221568
+			},
+			"steamid": "[U:1:914371950]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "DevianT",
 				"time": 1687820970
 			},
@@ -1213,16 +1260,6 @@
 		},
 		{
 			"attributes": [
-				"suspicious"
-			],
-			"last_seen": {
-				"player_name": "HATE NI\ud835\ude7a\ud835\ude74 \ud835\ude79\ud835\ude7eGGERS",
-				"time": 1685755743
-			},
-			"steamid": "[U:1:1094526249]"
-		},
-		{
-			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -1316,10 +1353,10 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "DoesHotter2",
-				"time": 1689400815
+				"player_name": "\u7267\u5e2b",
+				"time": 1692389479
 			},
-			"steamid": "[U:1:73369985]"
+			"steamid": "[U:1:1129628113]"
 		},
 		{
 			"attributes": [
@@ -1350,6 +1387,16 @@
 				"time": 1685825611
 			},
 			"steamid": "[U:1:1140526678]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "blacktranslivesmatter",
+				"time": 1692389329
+			},
+			"steamid": "[U:1:1141467347]"
 		},
 		{
 			"attributes": [
@@ -1386,26 +1433,6 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Tens1te",
-				"time": 1691805923
-			},
-			"steamid": "[U:1:960485547]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "Jarl Balgruuf",
-				"time": 1691179611
-			},
-			"steamid": "[U:1:1048388265]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
 				"player_name": "Richard Milhous Nixon",
 				"time": 1678820050
 			},
@@ -1430,36 +1457,6 @@
 				"time": 1682860603
 			},
 			"steamid": "[U:1:1163968214]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "sentrybuster",
-				"time": 1685735865
-			},
-			"steamid": "[U:1:1137305349]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "Yamete",
-				"time": 1691525754
-			},
-			"steamid": "[U:1:1235121587]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "[NC]CATastrophe",
-				"time": 1690499134
-			},
-			"steamid": "[U:1:1282611083]"
 		},
 		{
 			"attributes": [
@@ -1627,18 +1624,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Deltapixel",
-				"time": 1682890413
-			},
-			"steamid": "[U:1:1506466152]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
 				"player_name": "Yamete",
-				"time": 1678495394
+				"time": 1691525754
 			},
 			"steamid": "[U:1:1235121587]"
 		},
@@ -1672,16 +1659,6 @@
 				"time": 1685800029
 			},
 			"steamid": "[U:1:1242786836]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "(1)Coldest Rage",
-				"time": 1679258040
-			},
-			"steamid": "[U:1:1513270982]"
 		},
 		{
 			"attributes": [
@@ -1809,7 +1786,7 @@
 			],
 			"last_seen": {
 				"player_name": "[NC]CATastrophe",
-				"time": 1678662129
+				"time": 1690499134
 			},
 			"steamid": "[U:1:1282611083]"
 		},
@@ -2049,7 +2026,7 @@
 			],
 			"last_seen": {
 				"player_name": "Deltapixel",
-				"time": 1678658757
+				"time": 1682890413
 			},
 			"steamid": "[U:1:1506466152]"
 		},
@@ -2175,11 +2152,11 @@
 		},
 		{
 			"attributes": [
-				"cheater"
+				"racist"
 			],
 			"last_seen": {
 				"player_name": "(1)Coldest Rage",
-				"time": 1678495394
+				"time": 1679258040
 			},
 			"steamid": "[U:1:1513270982]"
 		},
@@ -3002,6 +2979,16 @@
 				"time": 1690839618
 			},
 			"steamid": "[U:1:1556203385]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bababoey Fan",
+				"time": 1692147371
+			},
+			"steamid": "[U:1:1560109654]"
 		},
 		{
 			"attributes": [
