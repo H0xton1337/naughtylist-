@@ -62,16 +62,6 @@
 		},
 		{
 			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "Savo",
-				"time": 1678658757
-			},
-			"steamid": "[U:1:67573723]"
-		},
-		{
-			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -89,6 +79,19 @@
 				"time": 1678495394
 			},
 			"steamid": "[U:1:77295734]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Fabiondo (guts)",
+				"time": 1692398412
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigger\""
+			],
+			"steamid": "[U:1:80531702]"
 		},
 		{
 			"attributes": [
@@ -255,6 +258,16 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Eluvar",
+				"time": 1692408567
+			},
+			"steamid": "[U:1:146031894]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -262,6 +275,19 @@
 				"time": 1691806527
 			},
 			"steamid": "[U:1:150767405]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1692489485
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
+			"steamid": "[U:1:154802301]"
 		},
 		{
 			"attributes": [
@@ -591,6 +617,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "bskt",
+				"time": 1692409454
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"you just nigger\""
+			],
+			"steamid": "[U:1:326471766]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "The_Wanderer027",
 				"time": 1690475193
 			},
@@ -615,6 +654,16 @@
 				"time": 1681055107
 			},
 			"steamid": "[U:1:343987690]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ISD",
+				"time": 1692392416
+			},
+			"steamid": "[U:1:345110346]"
 		},
 		{
 			"attributes": [
@@ -786,6 +835,19 @@
 				"time": 1691246905
 			},
 			"steamid": "[U:1:432968069]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Duck",
+				"time": 1692394573
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"love you nigger\""
+			],
+			"steamid": "[U:1:440363496]"
 		},
 		{
 			"attributes": [
@@ -1089,6 +1151,16 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Schizophrenia gaming",
+				"time": 1692392466
+			},
+			"steamid": "[U:1:1014100829]"
+		},
+		{
+			"attributes": [
 				"cheater",
 				"racist"
 			],
@@ -1223,6 +1295,16 @@
 				"suspicious"
 			],
 			"last_seen": {
+				"player_name": "idk what im doing",
+				"time": 1692481161
+			},
+			"steamid": "[U:1:1059559344]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
 				"player_name": "Flashy",
 				"time": 1690474112
 			},
@@ -1347,6 +1429,16 @@
 				"time": 1690206927
 			},
 			"steamid": "[U:1:1114114502]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "shields",
+				"time": 1678658757
+			},
+			"steamid": "[U:1:1125186955]"
 		},
 		{
 			"attributes": [
@@ -1540,12 +1632,12 @@
 		},
 		{
 			"attributes": [
-				"suspicious",
+				"cheater",
 				"racist"
 			],
 			"last_seen": {
-				"player_name": "Tremzye",
-				"time": 1687737363
+				"player_name": "FS-_-Screaming_Eagle",
+				"time": 1692490083
 			},
 			"steamid": "[U:1:1203340620]"
 		},
@@ -1649,6 +1741,19 @@
 				"time": 1690418348
 			},
 			"steamid": "[U:1:1235877606]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1692399707
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter"
+			],
+			"steamid": "[U:1:1241842953]"
 		},
 		{
 			"attributes": [
@@ -1865,6 +1970,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Elfatso",
+				"time": 1692392403
+			},
+			"steamid": "[U:1:1408750276]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Tevacae",
 				"time": 1690249659
 			},
@@ -1985,6 +2100,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "CEO",
+				"time": 1692479896
+			},
+			"steamid": "[U:1:1474059863]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "kirsty",
 				"time": 1691288542
 			},
@@ -1999,6 +2124,16 @@
 				"time": 1684525251
 			},
 			"steamid": "[U:1:1478269166]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Richard Nixon",
+				"time": 1692479858
+			},
+			"steamid": "[U:1:1486050485]"
 		},
 		{
 			"attributes": [
@@ -2039,6 +2174,19 @@
 				"time": 1684507539
 			},
 			"steamid": "[U:1:1506492033]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DEL\u0e34TA\u0e34TRONIC\u0e34",
+				"time": 1692469252
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic's use of thai"
+			],
+			"steamid": "[U:1:1506541628]"
 		},
 		{
 			"attributes": [
@@ -3265,9 +3413,25 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "DELTATR0NIC\u0e34",
-				"time": 1690728647
+				"player_name": "DELTATRONIC\u0e34",
+				"time": 1692469207
 			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic's use of thai"
+			],
+			"steamid": "[U:1:1570970445]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DELTATR0NIC\u0e34",
+				"time": 1692469096
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Omegatronic's use of thai"
+			],
 			"steamid": "[U:1:1571549587]"
 		},
 		{
