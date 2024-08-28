@@ -3953,12 +3953,15 @@
 		},
 		{
 			"attributes": [
-				"cheater"
+				"suspicious"
 			],
 			"last_seen": {
 				"player_name": "gabi",
 				"time": 1724720865
 			},
+			"proof": [
+				"queueing casual with a friend cheater [U:1:124241804] and F2ing on votekicks"
+			],
 			"steamid": "[U:1:909400724]"
 		},
 		{
